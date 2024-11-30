@@ -12,7 +12,7 @@ I'm a second-year student at **Mahidol University**, Faculty of Information and 
 
 ## 📚 Projects
 
-- **[E-commerce Web Application for Skincare Products](#)**: *web application designed for managing and showcasing skincare products.*
+- **[E-commerce Web Application for Skincare Products](https://github.com/Punyawee04/Web-Application)**: *web application designed for managing and showcasing skincare products.*
 
 *(Feel free to replace these with actual projects and provide links.)*
 
