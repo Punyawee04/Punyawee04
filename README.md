@@ -2,13 +2,16 @@
 
 Welcome to my GitHub profile!
 
-I'm a third-year student at **Mahidol University**, Faculty of Information and Communication Technology. My passion lies in **Software Testing**, and I have a solid understanding of the **Software Development Life Cycle (SDLC)**.
-
+I'm a third-year student at Mahidol University, Faculty of Information and Communication Technology.
+I enjoy exploring technology, paying attention to details, and finding ways to improve how things work.
 
 ### 🎯 Goals
-- Deepen my knowledge in **Software Testing** frameworks.
-- Work on real-world projects to sharpen my testing skills.
-- Explore new tools for **quality assurance** and **automation testing**.
+
+Keep learning and expanding my knowledge in different areas of IT.
+
+Take on challenges that push me to grow and adapt.
+
+Apply determination and perseverance to contribute to meaningful projects.
 
 ## 📚 Projects
 
