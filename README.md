@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-I'm a second-year student at **Mahidol University**, Faculty of Information and Communication Technology. My passion lies in **Software Testing**, and I have a solid understanding of the **Software Development Life Cycle (SDLC)**.
+I'm a third-year student at **Mahidol University**, Faculty of Information and Communication Technology. My passion lies in **Software Testing**, and I have a solid understanding of the **Software Development Life Cycle (SDLC)**.
 
 
 ### 🎯 Goals
